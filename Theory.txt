@@ -1,0 +1,34 @@
+Q)1. What is computer?
+A computer is essentially an electronic device that can process information. It can take raw data as input, follow a set of instructions (program) to process it, and then output the results. These instructions, or programs, allow computers to perform a wide range of tasks, from simple calculations to complex operations like artificial intelligence.
+
+Q)2. What is RAM?
+RAM, which stands for Random Access Memory, is considered the computer's short-term memory. It's where data that the processor needs is stored for quick access. Think of it like a workbench where you keep the tools you're currently using. You can easily reach for them whenever needed.
+
+Q)3. Where is data stored in a computer?
+Computer data is stored in different locations depending on whether it's needed for immediate use or long-term keeping. Here's a breakdown of the two main types of storage:
+1.Primary Storage (RAM):
+-> This is the computer's temporary or volatile memory, as mentioned earlier with RAM.
+-> RAM stores data that the central processing unit (CPU) needs for immediate access.
+2. Secondary Stirage:
+-> Hard Disk Drive (HDD): This is the traditional storage device in most computers. It uses magnetic platters to store data.
+->Solid State Drive (SSD): A newer technology that uses flash memory chips for faster data access compared to HDDs.
+-> External storage devices: These include removable drives like flash drives, external hard drives, DVDs, and CDs.
+-> Secondary storage is used for long-term storage of files.
+
+Q)4. What are the input device?
+Input devices are any hardware component that allows you to provide information and control signals to a computer.  They act as a bridge between you and the computer, letting you interact with it and giving you a way to feed it data or instructions.
+(i)Keyboard, (ii)Mouse, (iii)Touchscreen, (iv)Scanner, (v)Webcam, (vi)Microphone, and (vii)Joystick.
+
+Q)5. What are the output device?
+Output devices are the hardware components in a computer system that take the processed information and convert it into a human-understandable form. They essentially translate the digital data from the computer into something you can see, hear, touch, or otherwise perceive.
+Here is a different types of output devices:-
+Printers, Monitors, Speakers, Headphones, Projectors, 3D Printors, and Braille Readers, etc.
+
+Q)6. Which is input device that allows a user to move the curser or pointer on the screen?
+There are actually several input devices that can be used to move the cursor or pointer on the screen, but the two most common ones are:
+i) Mouse: This is a handheld device that you slide on a flat surface. The movement of the mouse is translated on-screen by the cursor.  Mice typically have one or more buttons that you can click or press to perform different actions on the computer.
+ii) Trackpad (or Touchpad): This is a flat, touch-sensitive surface found on laptops and some keyboards. You can move your finger on the trackpad to control the cursor on the screen.  Similar to a mouse, trackpads often have buttons or allow tapping on the surface to perform clicks.
+
+Q)7. which language is directly understood by the computer without a transiation program?
+The language directly understood by the computer without a translation program is machine language.
+Machine language is the most basic form of language a computer can understand. It consists of a series of binary digits (0s and 1s) that correspond to specific instructions for the computer's processor.  Each instruction tells the processor what operation to perform, like adding numbers, moving data, or making a decision.
