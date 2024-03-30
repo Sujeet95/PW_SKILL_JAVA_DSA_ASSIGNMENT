@@ -1,0 +1,20 @@
+Q.1) What is Git?
+Git is a popular version control system, specifically a distributed one. This means that unlike older systems, Git doesn't rely on a central server to store changes. Instead, every developer working on the project has a complete copy of the project history on their machine.
+
+Q.2) What is GitHub?
+GitHub is an online platform that builds on top of Git, the version control system.  Think of Git as the engine under the hood, and GitHub as the user-friendly interface that lets you easily manage your code.
+
+Q.3) Different types of version control system?
+There are three main types of version control systems (VCS):
+1. Local Version Control Systems:  These are the most basic and are rarely used anymore. With a local VCS, changes are tracked only on the individual's machine. There's no central repository to store different versions, making collaboration difficult and risky.
+2. Centralized Version Control Systems (CVCS):  These were the dominant type of VCS for a while. In a CVCS, all the files and their version history are stored in a central server. Developers working on the project need to connect to this server to make changes or retrieve previous versions.
+3. Distributed Version Control Systems (DVCS): This is the most popular type today, with Git being the leading example. In a DVCS, every developer working on the project has a complete copy of the entire project history on their local machine. This eliminates the need for a central server and makes DVCS more fault-tolerant and efficient.
+
+Q.4) What is Git repository?
+A Git repository, often shortened to repo, is a core concept in using Git for version control. It's essentially a central storage location that tracks all the changes made to your project's files and folders over time.
+
+Q.5) How can you initialize a repository in Git?
+Initializing a Git repository is the first step to start tracking changes to your project's files with Git. Here's how to do it:
+1.Open your terminal: This is where you'll run Git commands.
+2.Navigate to your project directory: Use the cd command to change directories to the location where you want to create your Git repository. This is typically the root directory of your project.
+3.Run the git init command: This command creates a new Git repository in the current directory. It will initialize a hidden folder named .git which holds all the Git metadata for your project.

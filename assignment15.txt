@@ -1,0 +1,40 @@
+Q1.) What is statically type and dynamically typed programming language?
+Statically typed and dynamically typed programming languages are two different paradigms regarding how variables are handled in a programming language.
+1.Statically Typed Programming Language:
+-> In a statically typed language, variable types are known and checked at compile time.
+-> This means that the type of every variable must be explicitly declared by the programmer.
+-> Once a variable is declared with a certain type, it cannot change to another type during the execution of the program.
+-> Examples of statically typed languages include Java, C, C++, and Rust.
+2.Dynamically Typed Programming Language:
+-> In a dynamically typed language, variable types are not explicitly declared by the programmer.
+-> Types are resolved at runtime, meaning the type of a variable can change during the execution of the program.
+-> Dynamically typed languages offer more flexibility but may lead to runtime errors if types are not handled properly.
+-> Examples of dynamically typed languages include Python, JavaScript, Ruby, and PHP.
+
+Q2.) What is variable in java?
+In Java, a variable is a named storage location that holds a value of a particular data type. Variables are used to store data that can be manipulated and accessed throughout the program. Each variable in Java has a specific type, which determines the kind of data it can hold and the operations that can be performed on it. For example- int age = 15;
+
+Q.3) How to asign a value to variable?
+Assigning a value to a variable in Java involves using the assignment operator (=) to associate a value with a variable. Here's the general syntax:-
+variableName = value;
+int age; //Declaration of an integer variable named 'age'
+age = 10; // Assigning the value 18 to the variable 'age'.
+
+Q.4) What are the primitive Data type in java?
+Primitive data types: These are the basic data types that are predefined and supported by Java. They include boolean, char, byte, short, int, long, float, and double. Primitive data types have a fixed size and range, and they do not have any additional methods or attributes.
+
+Q.5) What are the identifiers in java?
+All Java variables must be identified with unique names.
+These unique names are called identifiers.
+Identifiers can be short names (like x and y) or more descriptive names (age, sum, totalVolume).
+Note: It is recommended to use descriptive names in order to create understandable and maintainable code.
+
+Q.6) List the Operators in java?
+Operators are symbols that perform operations on variables and values. For example, + is an operator used for addition, while * is also an operator used for multiplication.
+Operators in Java can be classified into 5 types:
+1.Arithmetic Operators{+,-,*,/,%}
+2.Assignment Operators{=,+=,-=,*=,/=,%=}
+3.Relational Operators{==,>,<,>=,<=,!=}
+4.Logical Operators{&&(Logical ANd),||(Logical OR),!(Logical NOT)}
+5.Unary Operators{+(Inary plus),-(unary minus),++(increamment operator),--(decreament operator),!(Logical complement operator)}
+6.Bitwise Operators{~,<<,>>,>>>,&,^}

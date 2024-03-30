@@ -1,0 +1,29 @@
+Q.1) What is programming language?
+A programming language is a formal language comprising a set of instructions that produce various kinds of output. It allows programmers to write instructions that a computer can understand and execute to perform specific tasks or solve particular problems. Programming languages are used to develop software, websites, applications, games, and etc.
+Programming languages can vary widely in terms of syntax, semantics, and purpose. Some popular programming languages include Python, Java, C++, JavaScript, Ruby, and many others.
+
+Q.2) Why do we need a programming language?
+
+Programming languages are essential tools for instructing computers to perform specific tasks. Here's why we need programming languages:
+1. Communication with Computers: Computers operate on binary code, which consists of 0s and 1s.
+2. Automation: Programming languages allow us to automate repetitive tasks and streamline complex processes.
+3. Problem Solving: Programming languages empower us to solve a wide range of problems, from simple calculations to complex data analysis and simulations.
+4. Software Development: Programming languages are the foundation of software development.
+5. Customization: Programming languages allow users to customize and extend existing software to meet their specific needs.
+
+Q.3) What are the features of java?
+ava is a widely-used, versatile programming language known for its platform independence, object-oriented approach, and robustness. Here are some of its key features:
+1.Platform Independence: Java programs can run on any device or platform that supports Java Virtual Machine (JVM). This is achieved through the concept of "Write Once, Run Anywhere" (WORA), where Java code can be compiled into bytecode that can run on any JVM.
+2.Object-Oriented: Java is designed around the object-oriented programming (OOP) paradigm, which emphasizes the use of classes and objects. 
+3.Simple and Familiar Syntax: Java syntax is derived from C and C++, making it familiar to many programmers. It has a relatively simple and easy-to-understand syntax, which reduces the learning curve for beginners.
+4.Security: Java incorporates various security features to protect against common vulnerabilities, such as buffer overflows and unauthorized access.
+5.Multi-threading Support: Java provides built-in support for multi-threading, allowing developers to create concurrent and parallel applications easily.
+
+Q.4) What is an Object?
+Everything in Java is associated with classes and objects, along with its attributes and methods. For example: in real life, a car is an object. The car has attributes, such as weight and color, and methods, such as drive and brake.
+A Class is like an object constructor, or a "blueprint" for creating objects.
+
+Q.5) What is an class?
+A class is a blueprint for the object. Before we create an object, we first need to define the class.
+We can think of the class as a sketch (prototype) of a house. It contains all the details about the floors, doors, windows, etc. Based on these descriptions we build the house. House is the object.
+Since many houses can be made from the same description, we can create many objects from a class.
