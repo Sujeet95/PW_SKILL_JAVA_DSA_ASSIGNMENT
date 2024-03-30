@@ -1,0 +1,46 @@
+Q.1) How to check if git is available on your system?
+To check if Git is available on your system, you can use the command-line interface (CLI) of your operating system:
+-> git --version
+
+Q.2) How to initialize a new git repository?
+
+To initialize a new Git repository in a directory. 
+follow these steps:-
+1.Open a Terminal or Command Prompt:
+Open a terminal or command prompt on your system.
+2.Navigate to the Directory:
+Use the "cd" command to navigate to the directory where you want to create your new Git repository.
+3.Initialize Git Repository:
+nce you're in the desired directory, use the following command to initialize a new Git repository: ex- git init
+4.Optional: Add Files:
+If you have files that you want to add to the repository, you can do so using the git add command followed by the filenames. ex- git add file1 file2, and so on.
+5.Commit Changes:
+After adding files, you'll need to commit them to the repository. Use the git commit command along with a message describing the changes. ex- git commit -m "first time adding this file".
+
+Q.3) How to tell git about your name and email?
+To tell Git about your name and email, you can use the git config command.
+ex- git config --global user.name "Your Name"
+    git config --global user.email "your_email@example.com"
+
+Q.4) How to add a file to the staging area?
+To add a file to the staging area in Git, you can use the git add command followed by the name of the file you want to add.
+Here's:
+git add filename
+git add file1.txt file2.txt
+
+Q.4)How to remove a file from the staging area?
+To remove a file from the staging area in Git, you can use the git reset command. Here's steps:
+1.Open a Terminal or Command Prompt:
+Open a terminal or command prompt on your system.
+2.Navigate to Your Git Repository:
+Use the cd command to navigate to the directory containing your Git repository.
+3.Remove File from Staging Area:
+Use the following command to remove a file from the staging area: git reset filename.
+
+Q.5) How to make a commit?
+To make a commit in Git, here's these steps:
+1.Stage Your Changes:
+Before committing, you need to stage the changes you want to include in the commit. You can use the git add command to stage specific files or changes. ex- git add .
+2. Commit your Changes:
+Once you've staged your changes, you can commit them to the repository. Use the git commit command followed by a commit message. ex-
+git commit -m "Commited"
