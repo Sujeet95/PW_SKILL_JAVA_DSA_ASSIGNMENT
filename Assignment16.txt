@@ -1,0 +1,58 @@
+Q.1) What are the Conditional Operators in java?
+In Java, conditional operators are used to perform different actions based on whether a condition evaluates to true or false.
+ex-int x = 10;
+String result = (x > 5) ? "x is greater than 5" : "x is less than or equal to 5";
+System.out.println(result); // Output: x is greater than 5
+
+Q.2) What are the types of Operators based on the number of operands?
+
+Operators in programming languages can be categorized based on the number of operands they act upon. These categories are:
+1.Unary Operators, 2.Binary Operators, 3.Ternary Operator
+
+Q.3) What is the use of Switch case in java programming?
+The switch statement in Java is a control flow statement that allows a variable or expression to be tested for equality against a list of values. It provides a more efficient way to write a sequence of if-else statements when you need to choose among several alternatives based on the value of a single expression. The switch statement is particularly useful when you have multiple possible execution paths based on the value of a single variable.
+ex- 
+switch (expression){
+case value1:
+	//statements
+	break;
+default:
+	//statements
+
+Q.4) What are the conditional statements and use of conditional statements in java?
+Conditional statements in Java are used to control the flow of execution based on certain conditions. These statements allow you to execute different blocks of code depending on whether a condition evaluates to true or false.
+1. if statements:
+The if statement is used to execute a block of code only if a specified condition is true.
+2. if-else statements:
+The if-else statement allows you to execute one block of code if the condition is true and another block of code if the condition is false.
+3. if-else-if lander:
+The if-else-if ladder allows you to test multiple conditions and execute different blocks of code based on which condition is true. It starts with an if statement followed by one or more else-if statements and ends with an optional else statement.
+4. switch statements:
+The switch statement allows you to select one of many code blocks to be executed. It evaluates an expression and compares its value to a list of case values, executing the code block associated with the first matching case.
+
+Q.5) What is syntax of if else statement?
+if (condition) {
+    // code to be executed if condition is true
+} else {
+    // code to be executed if condition is false
+}
+
+
+Q.6) Write the difference between for loop and do-while loop?
+for loop:
+1.It is known as entry controlled loop.
+2.If the condition is not true first time than control will never enter in a loop.
+3.There is no semicolon; after the condition in the syntax of the for loop.
+do-while loop:
+1.It is known as exit controlled loop.
+2.Even if the condition is not true for the first time the control will enter in a loop.
+3.There is semicolon; after the condition in the syntax of the do while loop.
+
+Q.7)Write a program to print numbers from 1 to 10.
+public class PrintNumbers {
+    public static void main(String[] args) {
+        for (int i = 1; i <= 10; i++) {
+            System.out.println(i);
+        }
+    }
+}
